@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Full Stack (MEAN)
 - 📫 How to reach me ...
 - Email : hariharan.rameshnaarayan@gmail.com
-- Website Link : hariharanramesh.liveblog365.com
+- Website Link : hariharanramesh.epizy.com
 
 <!---
 Hariharan-Rameshnaarayan/Hariharan-Rameshnaarayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
